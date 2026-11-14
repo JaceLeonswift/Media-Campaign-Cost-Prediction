@@ -1,7 +1,7 @@
 # Media-Campaign-Cost-Prediction
 Kaggle Contest Top 1% Leaderboard
 
-Kaggle competition: https://www.kaggle.com/competitions/playground-series-s3e11?
+Kaggle competition: https://www.kaggle.com/competitions/playground-series-s3e11
 
 Media Campaign Cost Prediction Aug 2025 - Dec 2025
 Lead ML Algorithm Engineer
