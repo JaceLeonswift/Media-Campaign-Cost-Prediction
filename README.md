@@ -11,3 +11,5 @@ feature configurations
 • Developed bagged LightGBM ensemble with randomised train-validation splits, early stopping and log-scale
 prediction aggregation, achieving top 0.95% (9th/952) in private and top 0.63% (6th/952) In public Kaggle
 leaderboard rankings
+
+report: https://docs.google.com/document/d/1ksLWN_Xn1KJtJR7kC_P02sRw6T2SvpLiSins8GvrWSk/edit?usp=drivesdk
